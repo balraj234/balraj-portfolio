@@ -65,7 +65,7 @@ form.addEventListener("submit", (e) => {
 
 window.addEventListener('DOMContentLoaded', () => {
   const text = document.querySelector(".sec-text");
-  const words = ["\u00A0\u00A0\u00A0Python Developer", "\u00A0\u00A0Mern Stack Dev", "\u00A0\u00A0\u00A0React Developer", "\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0AI Developer"];
+  const words = ["\u00A0\u00A0\u00A0Python Developer", "Mern Stack Developer", "\u00A0\u00A0\u00A0React Developer", "\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0AI Developer"];
   let wordIndex = 0;
   let charIndex = 0;
   let isDeleting = false;

@@ -1062,8 +1062,8 @@ form .send-btn:hover {
 
 }
 .container{
-    padding-top: -40px ;
-    margin-top: -40px;
+    padding-top: -30px ;
+    margin-top: -30px;
 }
   .footer {
     padding: 18px 8%;
@@ -1298,14 +1298,14 @@ form .send-btn:hover {
    
     margin-bottom: 100px;
   }
-.main-content{
+/* .main-content{
     padding-top: 500px;
 
 }
 .container{
     padding-top: -40px ;
     margin-top: -40px;
-}
+} */
 
   .desc {
     font-size: 20px;
@@ -1316,16 +1316,16 @@ form .send-btn:hover {
   }
 }
 
-@media (max-width: 460px) {
+@media (max-width: 400px) {
 
-    .main-content{
+    /* .main-content{
     padding-top: 500px;
 
 }
 .container{
     padding-top: -40px ;
     margin-top: -40px;
-}
+} */
 .span{
     font-size: 30px;
 }
@@ -1334,3 +1334,4 @@ form .send-btn:hover {
   }
 
 }
+
