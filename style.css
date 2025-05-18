@@ -1299,7 +1299,7 @@ form .send-btn:hover {
     margin-bottom: 100px;
   }
 .main-content{
-    padding-top: 200px;
+    padding-top: 450px;
 
  } 
 /* .container{
@@ -1313,6 +1313,7 @@ form .send-btn:hover {
 
   .text.sec-text {
     font-size: 27px;
+    padding-left: 20px;
   }
 }
 
