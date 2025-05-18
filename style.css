@@ -1011,7 +1011,7 @@ form .send-btn:hover {
 }
 
  .text.sec-text {
-    font-size: 50px !important;
+    font-size: 30px !important;
   }
 
 
@@ -1029,17 +1029,21 @@ form .send-btn:hover {
 
 
   .main-content {
-    margin-top: 40px !important;
+    margin-top: 270px !important;
     align-items: center !important;
   }
+ 
   .desc{
     font-size: 20px !important;
   }
 
   .text.sec-text {
-    font-size: 30px !important;
+    font-size: 27px !important;
+   
   }
 }
+
+
 
 
 
