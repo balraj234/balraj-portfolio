@@ -1274,7 +1274,7 @@ form .send-btn:hover {
     padding-left: 20px;
   }
   .main-content{
-    padding-top: 500px;
+    padding-top: 400px;
 
 }
 .container{
@@ -1299,7 +1299,7 @@ form .send-btn:hover {
     margin-bottom: 100px;
   }
 .main-content{
-    padding-top: 400px;
+    padding-top: 300px;
 
  } 
 /* .container{
@@ -1319,10 +1319,11 @@ form .send-btn:hover {
 
 @media (max-width: 400px) {
 
-    /* .main-content{
+   /* .main-content{
     padding-top: 500px;
 
-}
+} */
+    /*
 .container{
     padding-top: -40px ;
     margin-top: -40px;
